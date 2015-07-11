@@ -1,0 +1,23 @@
+body {
+    background-color: black
+}
+.animate .container {
+    font-family:inherit; 
+    color: ghostwhite;
+    font-size: 48px;
+}
+.animate { 
+background-image: url('http://wallpaperswa.com/thumbnails/detail/20120402/mountains%20clouds%20outer%20space%20birds%20planets%20purple%201680x1050%20wallpaper_www.wallpaperwa.com_29.jpg');
+    height: 600;
+    margin-left:25%
+    margin-right:25%
+}
+.fantasy {
+    color: white;
+    text-align: center;
+    margin-left:30%;
+    margin-right:30%;
+}
+.animate h1:hover{
+    color:blueviolet;
+}
